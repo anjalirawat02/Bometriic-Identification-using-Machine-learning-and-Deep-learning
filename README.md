@@ -1,4 +1,4 @@
-# Biometric Identification based on eye Movements using Machine learning and Deep Learning : README
+# Biometric Identification based on Eye Movements using Machine learning and Deep Learning : README
 
 Security is paramount for safeguarding valuable information from unauthorized access. In today's technologically driven world, maintaining robust security measures is crucial to prevent unauthorized individuals from gaining access to sensitive data. Biometric systems play a significant role in ensuring security by identifying individuals based on their unique physical or behavioral traits.
 
